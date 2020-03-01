@@ -1,12 +1,11 @@
 # InstaFeed - Instagram Feed (Clone)
-<br>
-Projeto iniciado durante a **Semana OmniStack 7.0** de 10/06/2019 a 16/06/2019
+> Node.js, React, React-Native
 
-<br><br>
-Ferramentas:
+Projeto iniciado durante a Semana OmniStack 7.0 da RocketSeat de 10/06/2019 a 16/06/2019
 
-* Node.js
-* MongoDB
-* React.js 
-* React Native
-<br>
+### Techs
+Projeto conta com:
+- backend em Node.js
+- frontend em React
+- mobile em React Native
+
